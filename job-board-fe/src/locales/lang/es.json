@@ -1,0 +1,47 @@
+{
+    "jobList": "Lista de trabajo",
+    "jobAppliedList": "Lista de trabajos solicitados",
+    "jobHistoryList": "Lista de historial de trabajo",
+    "applyTitle": "التقديم على الوظيفة",
+    "editTitle": "تحرير الوظيفة",
+    "deleteTitle": "حذف الوظيفة",
+    "applied": {
+        "title": "Aplicada con éxito",
+        "desc": "Has solicitado empleo con éxito 🎉",
+        "dialogTitle": "Aplicado en el trabajo",
+        "dialogContent": "¿Estás seguro de que quieres postularte para este trabajo? Una vez confirmada, esta acción no se puede deshacer."
+    },
+    "jobForm": {
+        "title": "Informacion del trabajo",
+        "desc": "Sección para configurar la información básica del trabajo.",
+        "name": "Nombre del trabajo"
+    },
+    "name": "Nombre",
+    "firstName": "Nombre de pila",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "status": "Estado",
+    "desc": "Descripción",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "signOut": "Desconectar",
+    "newJob": "Nuevo trabajo",
+    "save": "Ahorrar",
+    "discard": "Desechar",
+    "back": "Atrás",
+    "delete": "Borrar",
+    "appliedUsers": "Usuarias aplicadas",
+    "deleteDialog": {
+        "title": "Eliminar producto",
+        "desc": "¿Estás seguro de que deseas eliminar este producto? También se eliminarán todos los registros relacionados con este producto. Esta acción no se puede deshacer."
+    },
+    "deleteNotification": {
+        "title": "Eliminada exitosamente",
+        "desc": "Producto eliminado exitosamente"
+    },
+    "nav": {
+        "jobs": "Trabajos",
+        "jobs-history": "Historial de trabajos",
+        "jobs-applied": "Empleos solicitados"
+    }
+}

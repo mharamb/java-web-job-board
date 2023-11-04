@@ -1,0 +1,47 @@
+{
+    "jobList": "Job list",
+    "jobAppliedList": "Job applied list",
+    "jobHistoryList": "Job history list",
+    "applyTitle": "Apply on job",
+    "editTitle": "Edit job",
+    "deleteTitle": "Delete job",
+    "applied": {
+        "title": "Successfully applied",
+        "desc": "You have successfully applied on job 🎉",
+        "dialogTitle": "Applied on job",
+        "dialogContent": "Are you sure you want to apply for this job? Once confirmed, this action cannot be undone."
+    },
+    "jobForm": {
+        "title": "Job Information",
+        "desc": "Section to config basic job information",
+        "name": "Job Name"
+    },
+    "name": "Name",
+    "firstName": "First name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "status": "Status",
+    "desc": "Description",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "signOut": "Sign Out",
+    "newJob": "New Job",
+    "save": "Save",
+    "discard": "Discard",
+    "back": "Back",
+    "delete": "Delete",
+    "appliedUsers": "Applied users",
+    "deleteDialog": {
+        "title": "Delete product",
+        "desc": "Are you sure you want to delete this product? All record related to this product will be deleted as well. This action cannot be undone."
+    },
+    "deleteNotification": {
+        "title": "Successfully Deleted",
+        "desc": "Product successfully deleted"
+    },
+    "nav": {
+        "jobs": "Jobs",
+        "jobs-history": "Jobs history",
+        "jobs-applied": "Jobs applied"
+    }
+}
